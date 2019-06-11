@@ -12,6 +12,7 @@ permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
 
+
 jekyll-archives:
   enabled:
     - categories
