@@ -2,6 +2,10 @@ markdown: kramdown
 title: aartika rai
 author: aartika
 
+assets:
+  sources:
+    - _assets
+
 remote_theme: yous/whiteglass
 plugins:
   - jekyll-archives
@@ -21,3 +25,4 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+
