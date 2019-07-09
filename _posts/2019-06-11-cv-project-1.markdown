@@ -11,6 +11,6 @@ This 'partially supervised' paradigm, though requiring more supervision than an 
 
 For my part, I wondered whether the weak supervision could not be made weaker than bounding boxes. For the project, I modified the problem such that only image level classification labels are available as weak supervision. This problem statement, "Partially supervised object detection", assumes bounding box annoatations for the fully supervised set and multiu-class labels for weakly supervised. Multi-class labels are nothing but a binary label for each class telling whether or not an object of that class appears in a given image. 
 
-You can [get the PDF]({{ site.url }}/assets/CV_poster.pdf) directly.
+[POSTER]({{ site.url }}/assets/CV_poster.pdf)
 
 
